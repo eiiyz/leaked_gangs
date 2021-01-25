@@ -1,4 +1,4 @@
-`Nickneym.#1337`
+`Nickneym.#1337`![alt text](http://url/to/img.png)
 
 - Discord: Aizen#9186
 - CFX Devz: https://discord.gg/dMMmr82S23
