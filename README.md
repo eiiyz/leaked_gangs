@@ -1,4 +1,4 @@
-- ![`Nickneym.#1337`](https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png)
+- `Nickneym.#1337` ![blank](https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png)
 
 - Discord: Aizen#9186
 - CFX Devz: https://discord.gg/dMMmr82S23
