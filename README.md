@@ -3,6 +3,6 @@
 - KK: https://discord.gg/MT2996y
 - Antichix: https://discord.gg/NmFcvCs
 
-[X] We do not provide support for this script
-[X] We do not provide support for this script
-[X] We do not provide support for this script
+- [X] We do not provide support for this script
+- [X] We do not provide support for this script
+- [X] We do not provide support for this script
