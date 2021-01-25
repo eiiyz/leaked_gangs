@@ -4,4 +4,3 @@
 - [X] Antichix: https://discord.gg/NmFcvCs
 
 We do not provide support for this script
-ulol
